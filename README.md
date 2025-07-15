@@ -1,1 +1,1 @@
-# cascadia-code
+# Cascadia Code & Cascadia Code NF
